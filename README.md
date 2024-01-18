@@ -18,7 +18,7 @@
 <p align="center">Natural Language Processing · Audio Signal Processing · Multimodal Learning</p>
 <p align="center">Reinforcement Learning · Recommender Systems</p>
 
-- <img class="lazyloaded" src="emojis\Bookmark Tabs.png" width="25" height="25">: My CV is also available [here](resume.pdf).
+- <img class="lazyloaded" src="emojis\Bookmark Tabs.png" width="25" height="25">: My CV is also available [here](https://anaezquerro.github.io/resume.pdf).
 
 ## _About my skills:_
 
