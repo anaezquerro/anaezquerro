@@ -10,9 +10,9 @@
 </p>
 
 
-- I am a Master Student at [University of A Coruña](https://www.udc.es/) and a full-time researcher in the [LyS Group](https://www.grupolys.org/).
+- I am a full-time researcher in the [LyS Group](https://www.grupolys.org/) ([University of A Coruña](https://www.udc.es/))
 
-- Recently graduated in [Data Science and Engineering](https://estudos.udc.es/en/study/detail/614g02v01) (2019-2023) and currently enrolled in the second year of the [Master in Artificial Intelligence](https://mia.udc.es/).
+- Graduated in [Data Science and Engineering](https://estudos.udc.es/en/study/detail/614g02v01) (2019-2023) and recently obtained a [Master's Degree in Artificial Intelligence](https://mia.udc.es/).
 - My current interests involve anything related with Deep Learning and Data Science. 
 
 <p align="center">Natural Language Processing · Audio Signal Processing · Multimodal Learning</p>
